@@ -1,4 +1,4 @@
-atomsko_st,simbol,ime,izvor_imena,skupina,perioda,blok,rel_at_masa,gostota,talisce,vrelisce,spec_toplota,el_neg,pogostost_v_zem_skorji,izvor,argegato
+atomsko_st,simbol,ime,izvor_imena,skupina,perioda,blok,rel_at_masa,gostota,talisce,vrelisce,spec_toplota,el_neg,pogostost_v_zem_skorji,izvor,agregatno
 1,H,Hydrogen,"Greek elements hydro- and -gen, 'water-forming'",1,1,s-block,1.0080,0.00008988,14.01,20.28,14.304,2.20,1400,primordial,gas
 2,He,Helium,"Greek hḗlios, 'sun'",18,1,s-block,4.0026,0.0001785,,4.22,5.193,,0.008,primordial,gas
 3,Li,Lithium,"Greek líthos, 'stone'",1,2,s-block,6.94,0.534,453.69,1560,3.582,0.98,20,primordial,solid
